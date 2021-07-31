@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MaddyUnknown/To-Do-List.github-io)
-- Live Site URL: [Add live site URL here](https://maddyunknown.github.io/To-Do-List.github-io/)
+- Solution URL: [Link](https://github.com/MaddyUnknown/To-Do-List.github-io)
+- Live Site URL: [Link](https://maddyunknown.github.io/To-Do-List.github-io/)
 
 ## My process
 
